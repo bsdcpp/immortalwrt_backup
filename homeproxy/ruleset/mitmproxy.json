@@ -2,7 +2,7 @@
   "version": 1,
   "rules": [
     {
-      "domain": [
+      "domain_suffix": [
         "weather.istatmenus.app",
         "dianxin.linkfog.cn",
         "mb3admin.com",
@@ -10,11 +10,7 @@
         "api2.sololearn.com",
         "api3.sololearn.com",
         "zhl-education.xxfz.com.cn",
-        "api.lishizg.online"
-      ]
-    },
-    {
-      "domain_suffix": [
+        "api.lishizg.online",
         "storyapi.ihuman.com",
         "bookapi.ihuman.com",
         "apis.littlefox.com",
@@ -108,10 +104,6 @@
         "heimdall.gongfudou.com",
         "m.zhuangyuan123.com",
         "googlevideo.com"
-      ]
-    },
-    {
-      "domain_keyword": [
       ]
     },
     {
